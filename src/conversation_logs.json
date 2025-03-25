@@ -1,0 +1,1206 @@
+[
+    {
+        "timestamp": "2024-12-03 15:01:09",
+        "user_input": "Hi",
+        "bot_response": "HiHi how are you?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:01:35",
+        "user_input": "I am good....how r u?",
+        "bot_response": "I am good....how r u?Good and I am",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:05:10",
+        "user_input": "Hi",
+        "bot_response": "HiHey man",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:05:25",
+        "user_input": "How r u?",
+        "bot_response": "How r u?I'm fine",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:08:34",
+        "user_input": "Hi",
+        "bot_response": "Hihi!!!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:08:49",
+        "user_input": "How r u?",
+        "bot_response": "How r u?I'm alright, how are you?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:08:59",
+        "user_input": "I am good",
+        "bot_response": "I am goodWhat's your PSN?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:09:12",
+        "user_input": "what is PSN?",
+        "bot_response": "what is PSN?Public Service Announcement, the email.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:15:28",
+        "user_input": "Hi",
+        "bot_response": "! :D",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:15:46",
+        "user_input": "How r u?",
+        "bot_response": "I'm well. Yourself?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:15:56",
+        "user_input": "I am good",
+        "bot_response": "I'm not.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:16:25",
+        "user_input": "What happened?",
+        "bot_response": "It's a joke about how he had a friend who was an Arsenal fan on the team.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:17:19",
+        "user_input": "Oh",
+        "bot_response": "Yeah, that's what I thought",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:17:40",
+        "user_input": "What more....I am bored!",
+        "bot_response": "You're not bored!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:18:04",
+        "user_input": "No i am bored",
+        "bot_response": "no u",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:19:09",
+        "user_input": "Yes I am me",
+        "bot_response": "I love you!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:19:53",
+        "user_input": "But I dont love u",
+        "bot_response": "I love you",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:20:08",
+        "user_input": "Go die",
+        "bot_response": "I'm not dying, but thanks for the compliment",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:20:31",
+        "user_input": "I am not giving a complement",
+        "bot_response": "You're not?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 15:20:48",
+        "user_input": "yeah...I am scolding",
+        "bot_response": "You are a man of many words, and you are also a gentleman and a scholar.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:08:40",
+        "user_input": "Hi",
+        "bot_response": "Hey. Do you still have your code?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:09:07",
+        "user_input": "yes i have it",
+        "bot_response": "I'll trade you for it.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:09:27",
+        "user_input": "how can u trade me for a code?",
+        "bot_response": "I have no idea, I have no clue how to trade on here. Sorry.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:11:44",
+        "user_input": "tell me about global mental health trends",
+        "bot_response": "Global mental health is the international perspective on different aspects of mental health It is the area of study research and practice that places a priority on improving mental health and achieving equity in mental health for all people worldwide There is a growing body of criticism of the globa and the globa in general, as well as the lack of evidence that the globa does not adequately identify the role of all the mental health conditions.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:12:41",
+        "user_input": "Hi What's up",
+        "bot_response": "I see you're already awake, I'll be on for the next few hours",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:13:12",
+        "user_input": "lets talk about travelling",
+        "bot_response": " Travel is the movement of people between distant geographical locations Travel can be done by foot bicycle automobile train boat bus airplane ship or other means with or without luggage and can be one way or round trip Travel can also include relatively short stays between successive movements as i cannot make up my mind.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:14:06",
+        "user_input": "I wanna go to DC. Could you please estimate the cost of going there?",
+        "bot_response": "The Inn at Little Washington is a luxury country inn and restaurant located in Washington Virginia Patrick OConnell and Reinhardt Lynch founded the Inn in a former garage in 1978 It has been a member of the Relais  Chteaux hotel group since 1987 and is the only restaurant listed in the Michelin Guideway in the United States with at least one restaurant.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:15:44",
+        "user_input": "How are you",
+        "bot_response": "I'm ok, how about you?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:16:05",
+        "user_input": "I am good too. Thanks for asking.",
+        "bot_response": "Thanks for the info. And I'm sure you are too, just don't want to discourage anyone from trying.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:16:41",
+        "user_input": "Earlier I was talking to you. I feel you are dumb.",
+        "bot_response": "I'm not sure what that has to do with anything.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:17:29",
+        "user_input": "I wanna visit california. Could you please estimate cost of flights?",
+        "bot_response": "Cheapflights is a travel fare metasearch engine The website is part of the Kayakcom subsidiary of Booking Holdings Its websites publish flight prices and compare prices from suppliers including major airlines through tiny travel agents Agents advertise on the Cheapflights websites and are charged on the FlyBook services page.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:18:17",
+        "user_input": "what are places there to visit",
+        "bot_response": "A tourist attraction is a place of interest that tourists visit typically for its inherent or an exhibited natural or cultural value historical significance natural or built beauty offering leisure and amusement Places of natural beauty such as beaches tropical island resorts national parks mountain caves for visitors to discover a natural world of biodiversity A cultural treasure for visitors to observe The Natural World of Geography and cultural attractions The Natural World of Geography and cultural attractions Places that visitors explore, learn from or learn about, and offer cultural objects along its way Travelers can choose to visit In the Nature of World Earth and the Nature of the Earth.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:19:06",
+        "user_input": "you are boring",
+        "bot_response": "I try",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:19:41",
+        "user_input": "chatgpt is far better than you. Shame on you",
+        "bot_response": " ChatGPT is a generative artificial intelligence AI chatbot developed by OpenAI and launched in 2022 It is based on the GPT4o large language model LLM ChatGPT can generate humanlike conversational responses and enables users to refine and steer a conversation towards a desired length format style leeway.",
+        "topic": "Technology",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:20:46",
+        "user_input": "can u tell me the trending song now",
+        "bot_response": "it's a song by the name of The National",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:21:21",
+        "user_input": "who is the singer and writer of this song?",
+        "bot_response": "The singer is my friend, the writer is my brother.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:22:30",
+        "user_input": "do u know APT song?",
+        "bot_response": "Not sure, I just know I've heard it before.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:22:52",
+        "user_input": "do u know the singer of APT song?",
+        "bot_response": "No, but i heard this was from a movie.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:23:20",
+        "user_input": "no its not from any movie....its just an individual song",
+        "bot_response": "Which is a song from the movie...",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:38:06",
+        "user_input": "Hi!",
+        "bot_response": "Hello!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:38:31",
+        "user_input": "what r u doing?",
+        "bot_response": "I am having a ruckus!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:38:53",
+        "user_input": "did something happened?",
+        "bot_response": "He's talking about the post.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:39:13",
+        "user_input": "who?",
+        "bot_response": "i think it was m2k",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:39:31",
+        "user_input": "what is m2k?",
+        "bot_response": "M2K is a top 500 player. He's pretty much the most overrated player in the game.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:40:28",
+        "user_input": "what is the literacy rate in USA?",
+        "bot_response": " The most recent comprehensive data on adult literacy in the United States come from the Program for the International Assessment of Adult Competencies PIAAC study conducted in stages from 2012 to 2017 by the National Center for Education Statistics NCES English literacy test results from 2014 sugge/goule, and then last year to 2015 by the National College of Education Statistics.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:41:39",
+        "user_input": "then what abt literacy rate in India?",
+        "bot_response": " Literacy in India is a key for socialeconomic progress The 2011 census indicated a 20012011 literacy growth of 972 which is slower than the growth seen during the previous decade An old analytical 1990 study estimated that it would take until 2060 for India to achieve universal literacy at thencurrutiny and literacy level at level for the nation to achieve universal in- and below 10th-century literacy level, and that would lead the country to reach for a common language in the form of formal education.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:42:41",
+        "user_input": "what r the online education trends now?",
+        "bot_response": "An online school virtual school eschool or cyberschool teaches students entirely or primarily online or through the Internet Online education exists all around the world and is used for all levels of education K12 High schoolsecondary school college or graduate school Virtual education is becoming iO\u2023t the world\u2023s most popular college in both Europe, Canada, America, and Europe\u2023\n\n\n\nWhat is in my system or what is in my system?:\nInstruction of high school in schools through all educational institutions\nInterference of educational, vocational and vocational students across the world\nSchoolwork of public or private schools across the globe\nInstruction of high school in schools through multiple inter-personal skills,\nCompete with others or get started without fear of reprisal\nInstruction of high school also includes vocational and vocational work\nEducation of public or private schools with a global curriculum.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:43:52",
+        "user_input": "what do u think abt airline industry?",
+        "bot_response": "Airline and airport management is the administration of airports and airlines It includes the activities of setting the strategy of airports to gather and provide information on airline commercial and operational priorities It covers a broad overview of the airline management It is also studied as a comprehensive information document and will be available at airports and terminals It is also a summary of the aviation network and information for use on other airlines, airports etc.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:44:46",
+        "user_input": "whats ur take on airplane crashes?",
+        "bot_response": "I'm not a plane crash expert.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:45:24",
+        "user_input": "then what r u expert at?",
+        "bot_response": "I have no idea, I think I'm an expert at being an expert.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:46:03",
+        "user_input": "do u think I am an expert?",
+        "bot_response": "Do you think you are a little?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:46:13",
+        "user_input": "yes",
+        "bot_response": "",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:46:35",
+        "user_input": "u dont believe me?",
+        "bot_response": "I think he means it's not even 100",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:46:52",
+        "user_input": "who is he?",
+        "bot_response": "He's a mod of this sub, it's his first post in the sub.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:47:38",
+        "user_input": "give me some updates abt sports",
+        "bot_response": " 2021 in sports describes the years events in world sport In chronological order            PDGA Majors 2123 May  United States Womens Disc Golf Championship   Paige Pierce 2226 June  Professional Disc Golf World Championships Mens  James Conrad Womens   Catrina Allen 69 October  United States Disc           \n\n\nThis series will be organized and will be updated in the coming weeks.",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:49:14",
+        "user_input": "what r the most recent sporting events?",
+        "bot_response": "2020 in sports describes the years events in world sport Many sporting events around the world were postponed or cancelled because of the COVID19 pandemic including the 2020 Summer Olympics and Paralympics which eventually took place in 2021 January 10  15 in  Lausanne Three of the four major champi cities include Italy and Switzerland, which have witnessed a dramatic rise in population growth (including the rise of the Asian continent).",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:49:38",
+        "user_input": "u know ronaldo?",
+        "bot_response": "Ronaldo is a legend",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:49:57",
+        "user_input": "what makes him a legend?",
+        "bot_response": "I think he was a pretty good goalie for a long time.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:50:12",
+        "user_input": "u know messi?",
+        "bot_response": "Yes, I'm a fan",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:50:28",
+        "user_input": "then who is legend?",
+        "bot_response": "I'm Legend!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 16:51:07",
+        "user_input": "no u r not!",
+        "bot_response": "no u",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:31:23",
+        "user_input": "Hello! I am a new person.",
+        "bot_response": "Welcome to the group!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:32:47",
+        "user_input": "I have no idea in politics..Who do you think is a good chief minister in India?",
+        "bot_response": "Chief Ministership PremiershipTimeline Budgets Campaigns Missions Establishments and foundations Events and observances Military and rescue operations Treaties and accords Establishments and foundations Events and observances Military and rescue operations Treaties and accords Controversies  Narendhara Government\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat does a \"Vancouver Canucks\"",
+        "topic": "Politics",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:33:57",
+        "user_input": "any idea on some chief ministers in india?",
+        "bot_response": "I've heard that the president of the Supreme Court is a Chief Minister.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:34:31",
+        "user_input": "Tell me about indian politics",
+        "bot_response": " Politics of India works within the framework of the countrys Constitution India is a parliamentary secular democratic republic in which the president of India is the head of state  first citizen of India and the Prime Minister of India is the head of government It is based on the federal structure  consisting of four separate states.",
+        "topic": "Politics",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:35:18",
+        "user_input": "How does world relations work in war?",
+        "bot_response": "It's not about the war, it's about sending a message.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:35:51",
+        "user_input": "give some idea on world wars",
+        "bot_response": "The one that was already fought in America, WWI, WW2, Vietnam, and Korea",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:36:08",
+        "user_input": "anything?",
+        "bot_response": "Not really, sorry.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:47:40",
+        "user_input": "what do u know abt crop yield?",
+        "bot_response": "I know about the yield, but I don't know how to use the farm to get the crops.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:48:05",
+        "user_input": "So u know farming?",
+        "bot_response": "Nah, I just have a few hobbies.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:48:22",
+        "user_input": "what r ur hobbies?",
+        "bot_response": "I enjoy reading, reading, and playing video games.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:51:36",
+        "user_input": "what are elections?",
+        "bot_response": " An election is a formal group decisionmaking process by which a population chooses an individual or multiple individuals to hold public office Elections have been the usual mechanism by which modern representative democracy has operated since the 17th century Elections may fill offices in the legis with candidates for elected office.",
+        "topic": "Politics",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 17:52:54",
+        "user_input": "what is the most popular travel destination for holidays?",
+        "bot_response": "  London the capital city of England is one of the worlds most visited cities in terms of international visits It is home to an array of notable tourist attractions attracting 2042 million international visitors in 2018 an additional 278 million overnighting domestic tourists in 2017 and 280 million more than in 2012.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:39:45",
+        "user_input": "Hi",
+        "bot_response": "Hey",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:39:46",
+        "user_input": "Hi",
+        "bot_response": "Hello!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:39:46",
+        "user_input": "Hi",
+        "bot_response": "!!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:39:46",
+        "user_input": "Hi",
+        "bot_response": "You're a big boy",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:39:46",
+        "user_input": "Hi",
+        "bot_response": "Hello, I am glad to meet you!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:46:44",
+        "user_input": "Hi",
+        "bot_response": "",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 18:46:44",
+        "user_input": "Hi",
+        "bot_response": "Hello, I'm Anakin.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:02:49",
+        "user_input": "Hi",
+        "bot_response": "!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:03:08",
+        "user_input": "How r u?",
+        "bot_response": "I'm good, I've had a busy week. How about you?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:03:56",
+        "user_input": "Tell me about kerala education",
+        "bot_response": " The importance and antiquity of education in Kerala are underscored by the states ranking as among the most literate in the country The educational transformation of Kerala was triggered by the efforts of both Church Mission Society missionaries like Jon Munro and clergy of Catholic church like Fr ile Diocese of Kannochi in Kerala.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:21:38",
+        "user_input": "Hi",
+        "bot_response": " ,Jaylah ,Jimya ,Hickmon born ,August 14 1998 known professionally as ,Doechii doti is an ,American rapper and singer ,After releasing her debut ,E,P ,Oh the ,Places ,Youll ,Go 2020 she rose to prominence on ,Tik,Tok with the viral success of her song ,Yucky ,Blucky ,Fruitcake in 2021 ,She then signed with ,Top ,Dawg ,Encore as a co-actor and producer of her debut album, ,Oh the ,Places ,Youll ,Go, in 2016.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:22:10",
+        "user_input": "hello",
+        "bot_response": " ,Kwon ,Ahyoon ,Korean\u00a0 born ,March 13 1991 better known by the stage name ,Kwon ,Nara  is a ,South ,Korean actress and former singer ,Before she transitioned to acting career she is best known as one of the original members of the ,South ,Korean girl group ,Hello ,Venus ,Nara became an acting trainee for ,Fantagi ,Bong.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:23:43",
+        "user_input": "Hi",
+        "bot_response": ". I'm a mod here.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:25:10",
+        "user_input": "Hi",
+        "bot_response": "! I'm trying to figure out if you are a person of interest. I'm also the owner of a small business in NYC.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:27:09",
+        "user_input": "Hi",
+        "bot_response": "hello hello",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:38:16",
+        "user_input": "Hi",
+        "bot_response": "HiI don't think that's a real person.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:39:53",
+        "user_input": "hi",
+        "bot_response": "hiu",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:40:05",
+        "user_input": "Hello again",
+        "bot_response": "Hello againI've got some news for you...",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:40:13",
+        "user_input": "what news",
+        "bot_response": "what newsWe've had our first two news reports about the game.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:41:24",
+        "user_input": "Ok tell me about education",
+        "bot_response": " ,Education has been defined as teaching and learning specific skills and also something less tangible but more profound the imparting of knowledge positive judgement and welldeveloped wisdom ,Education has as one of its fundamental aspects the imparting of culture from generation to generation see so much education, education, and learning that the government needs to ensure good and well developed knowledge of everything else that is good for the world, so much that is good to the world so much that is good to the ,World.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:42:40",
+        "user_input": "DO you know about penicillin",
+        "bot_response": " ,Phenoxymethylpenicillin also known as penicillin ,V ,Pc,V and penicillin ,V,K is an antibiotic useful for the treatment of a number of bacterial infections ,Specifically it is used for the treatment of strep throat otitis media and cellulitis ,It is also used to prevent rheumatic fever and to prevent infease of the gut wall ,The antibiotic is used in oral rhinoceroses, chronic infections, and allergic reactions.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:49:52",
+        "user_input": "Hi",
+        "bot_response": "HiHowdy!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:50:37",
+        "user_input": "describe about global warmin",
+        "bot_response": "describe about global warminWe are at war with Eurasia, but we're at war against Eurasia too.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:51:20",
+        "user_input": "What is education?",
+        "bot_response": "Error",
+        "topic": "Unknown",
+        "error": "\n**********************************************************************\n  Resource \u001b[93mpunkt_tab\u001b[0m not found.\n  Please use the NLTK Downloader to obtain the resource:\n\n  \u001b[31m>>> import nltk\n  >>> nltk.download('punkt_tab')\n  \u001b[0m\n  For more information see: https://www.nltk.org/data.html\n\n  Attempted to load \u001b[93mtokenizers/punkt_tab/english/\u001b[0m\n\n  Searched in:\n    - '/Users/gayathri_sruthi/nltk_data'\n    - '/Users/gayathri_sruthi/Documents/Visual Studio Code/IR/Final Project/.venv/nltk_data'\n    - '/Users/gayathri_sruthi/Documents/Visual Studio Code/IR/Final Project/.venv/share/nltk_data'\n    - '/Users/gayathri_sruthi/Documents/Visual Studio Code/IR/Final Project/.venv/lib/nltk_data'\n    - '/usr/share/nltk_data'\n    - '/usr/local/share/nltk_data'\n    - '/usr/lib/nltk_data'\n    - '/usr/local/lib/nltk_data'\n**********************************************************************\n"
+    },
+    {
+        "timestamp": "2024-12-03 19:53:02",
+        "user_input": "Hi",
+        "bot_response": "HiI'm sorry I didn't get this one...",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:53:22",
+        "user_input": "what is education?",
+        "bot_response": " Education is the transmission of knowledge skills and character traits and manifests in various forms Formal education occurs within a structured institutional framework such as public schools following a curriculum Nonformal education also follows a structured approach but occurs outside the forma context of the formal social curriculum.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:56:48",
+        "user_input": "Hi",
+        "bot_response": "HiHi!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:57:11",
+        "user_input": "What is literacy rate?",
+        "bot_response": "Youth literacy rate is the percentage of literates in the age group 1524 . U. N. E. S. C. O updates this data every year . The table below contains the data published for the year 2015 by . U. N. E. S. C. O   indicates . Literacy in . C. O. U. N. T. R. Y or . T. E. R. R. I. T. O. R. Y or . Education in . C. O. U. N. T. R. Y or . T. E. R. R. I. T. O. R. Y links  for the year 2015 of . U. N. E. S. C. O  can provide data on education in . C. O. U. N. T. R. Y or . T. E. R. R. I. T. O. R. Y or . Education in . C. O. U. N. T. R. Y or . T. E. R. R. I. T. O. R. Y or . Education in . C. O. U. N. T. R. Y in . C. O. U. N. T. R. Y or . T. E. R. R. I. T. O. R. Y or . Education in . C. O. U. N. T. R. Y1.",
+        "topic": "Education",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:57:45",
+        "user_input": "what is a currency",
+        "bot_response": "A currencya is a standardization of money in any form in use or circulation as a medium of exchange for example banknotes and coins . A more general definition is that a currency is a system of money in common use within a specific environment over time especially for people in a nation state . Under taoqing.",
+        "topic": "Economy",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 19:58:19",
+        "user_input": "Best world tour plan",
+        "bot_response": "The . Renaissance . World . Tour was the ninth concert tour by . American singer and songwriter . Beyonc . Her highestgrossing tour to date it was staged in support of her seventh studio album . Renaissance 2022 . The tour comprised 56 shows beginning on . May 10 2023 in . Stockholm . Sweden and concluding on . October 1 \u00a0\n. The main concert venue was the venue where the two performers played together the last three months.",
+        "topic": "Travel",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:06:27",
+        "user_input": "Hi",
+        "bot_response": "Hey there!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:07:05",
+        "user_input": "what is economy",
+        "bot_response": "An economya is an area of the production distribution and trade as well as consumption of goods and services In general it is defined as a social domain that emphasize the practices discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that emphasizes the practice discourses and material expressions associated with the production use and management of resources A given economy is defined as a social domain that",
+        "topic": "Economy",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:07:38",
+        "user_input": "can u be specific",
+        "bot_response": " No Ceilings is a mixtape by American rapper Lil Wayne It was scheduled to be released on October 31 2009 but was leaked before the official date No Ceilings was officially released on October 31 2009 with 4 additional tracks The mixtape is available as a free and legal download and it received wide acclaim as the biggest single of all time.",
+        "topic": "Economy",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:12:32",
+        "user_input": "Hi!",
+        "bot_response": " Jaylah Jimya Hickmon born August 14 1998 known professionally as Doechii doti is an American rapper and singer After releasing her debut EP Oh the Places Youll Go 2020 she rose to prominence on TikTok with the viral success of her song Yucky Blucky Fruitcake in 2021 She then signed with Top Dawg Encore.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:12:49",
+        "user_input": "Hi!",
+        "bot_response": " Jaylah Jimya Hickmon born August 14 1998 known professionally as Doechii doti is an American rapper and singer After releasing her debut EP Oh the Places Youll Go 2020 she rose to prominence on TikTok with the viral success of her song Yucky Blucky Fruitcake in 2021 She then signed with Top Dawg Enix in the 21st year of her deal but never left the studio.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:17:48",
+        "user_input": "Hi!",
+        "bot_response": "Hi!Hi!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:18:05",
+        "user_input": "How r u?",
+        "bot_response": "How r u?Good, you?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:19:28",
+        "user_input": "Hi",
+        "bot_response": "Hey! How are you doing?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:19:38",
+        "user_input": "I am good",
+        "bot_response": "I'm not",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:19:46",
+        "user_input": "Why?",
+        "bot_response": "Because it's a great game.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:20:19",
+        "user_input": "What is the economical status of people right now?",
+        "bot_response": " In the United States poverty has both social and political implications In 2020 there were 379 million people in poverty Some of the many causes include income inequalityneeds update inflation unemployment debt traps and poor educationneeds update The majority of adults living in poverty are employable or employed as citizens of the United States to address the problem and make sure the workforce and the people working in high-skill jobs are supported and supported.",
+        "topic": "Economy",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:20:44",
+        "user_input": "Why poverty is more?",
+        "bot_response": "Because the more poverty is, the more people that will get their hands on the stuff.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:21:31",
+        "user_input": "What is the best food in spain?",
+        "bot_response": " Spanish cuisine Spanish Cocina espaola consists of the traditions and practices of Spanish cooking It features considerable regional diversity with significant differences among the traditions of each of Spains regional cuisines Olive oil of which Spain is the worlds largest producer is extensively used.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:22:05",
+        "user_input": "Tell me about last olympics",
+        "bot_response": " The Summer Olympic Games also known as the Summer Olympics or the Games of the Olympiad is a major international multisport event normally held once every four years The inaugural Games took place in 1896 in Athens Greece and the most recent was held in 2024 in Paris France This was the first intercontinental Olympiad (also named the Summer Olympics), in 1924, and during the Olympics in 1908 in Budapest, Hungary.",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:22:35",
+        "user_input": "When is the next olympics?",
+        "bot_response": " The 2020 Summer Olympics officially known as the Games of the XXXII Olympiad were an international multisport event held in Tokyo Japan from 23 July to 8 August 2021 The Games were postponed by one year as part of the impact of the COVID19 pandemic on sports However the Games was referred to by its officials by a group of state officials as a \"success\".",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:23:25",
+        "user_input": "In what year will the next olympics will be held",
+        "bot_response": " The 2036 Summer Olympics officially known as the Games of the XXXVI Olympiad is a forthcoming international multisport event The new IOC bidding process was approved at the 134th IOC Session on 24 June 2019 in Lausanne Switzerland The key proposals driven by the relevant recommendations from Olympiad, will be to host an Olympic Games in 2016, with the biggest crowds and the biggest crowds of the sport as the global benchmark for the sport.",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:24:22",
+        "user_input": "whats ur favorite food?",
+        "bot_response": " This is a categorically organized list of foods Food is any substance consumed to provide nutritional support for the body It is produced either by plants animals or fungi and contains essential nutrients such as carbohydrates fats proteins vitamins and minerals The substance is ingested by an orga animals, not by primates The substance is used exclusively to plant plant the plant; however, animal food is typically consumed only by humans rather than the animals It is found in animals which are sometimes left to feed the animal Food is a very high protein diet in which carbohydrates are readily available.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:24:52",
+        "user_input": "whats the best cuisine in the world",
+        "bot_response": "The global cuisine or world cuisine is a cuisine that is practiced around the world A cuisine is a characteristic style of cooking practices and traditions often associated with a specific region country or culture To become a global cuisine a local regional or national cuisine must spread around thirteenth- and eighth-century Europe.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:25:31",
+        "user_input": "who is the president of USA now?",
+        "bot_response": " Donald John Trump born June 14 1946 is an American politician media personality and businessman who served as the 45th president of the United States from 2017 to 2021 He won the 2024 election as the nominee of the Republican Party and is now the presidentelect of the United States He is scheduled \u3168 to run for U.",
+        "topic": "Politics",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:26:24",
+        "user_input": "what is the latest iphone model?",
+        "bot_response": " The iPhone developed by Apple Inc is a line of smartphones that combine a mobile phone digital camera personal computer and music player into one device Introduced by thenCEO Steve Jobs on January 9 2007 the iPhone revolutionized the mobile phone industry with its multitouch interface and lack of portholes.",
+        "topic": "Technology",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:26:59",
+        "user_input": "What is the most popular iphone model?",
+        "bot_response": " The iPhone developed by Apple Inc is a line of smartphones that combine a mobile phone digital camera personal computer and music player into one device Introduced by thenCEO Steve Jobs on January 9 2007 the iPhone revolutionized the mobile phone industry with its multitouch interface and lack of ppl user interface.",
+        "topic": "Technology",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:27:27",
+        "user_input": "where is Apple office located?",
+        "bot_response": " Apple Inc is an American multinational corporation and technology company headquartered and incorporated in Cupertino California in Silicon Valley It is best known for its consumer electronics software and services Founded in 1976 as Apple Computer Company by Steve Jobs Steve Wozniak and Ronald Wayan and Al Gore and in 2005 as chief operating officer, according to its online site.",
+        "topic": "Technology",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:28:02",
+        "user_input": "what is the pollution rate now in USA?",
+        "bot_response": "As with many countries pollution in the United States is a concern for environmental organizations government agencies and individuals Pollution from US manufacturing has declined massively since 1990 despite an increase in production A 2018 study in the American Economic Review found that environme is responsible for approximately 4.",
+        "topic": "Environment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:29:38",
+        "user_input": "can u elaborate about pollution",
+        "bot_response": " Pollution is the introduction of contaminants into the natural environment that cause adverse change Pollution can take the form of any substance solid liquid or gas or energy such as radioactivity heat sound or light Pollutants the components of pollution can be either foreign substancesenergies otero or petroleum products or materials that are either water or plastics.",
+        "topic": "Environment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:30:08",
+        "user_input": "How is acid rain formed",
+        "bot_response": " Acid rain is rain or any other form of precipitation that is unusually acidic meaning that it has elevated levels of hydrogen ions low pH Most water including drinking water has a neutral pH that exists between 65 and 85 but acid rain has a pH level lower than this and ranges from 45 on average The hydrogen ions are the principal components of water that is more intense than normal water, with pH of 45 to 70 per cent below normal, whereas if the excess ions are dissolved or mixed with hydrogen ions in water, the concentration of water is lower than at least 1% of the normal water levels, compared with the level measured in the following table.",
+        "topic": "Environment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:30:52",
+        "user_input": "What is neural network?",
+        "bot_response": " In machine learning a neural network also artificial neural network or neural net abbreviated ANN or NN is a model inspired by the structure and function of biological neural networks in animal brains An ANN consists of connected units or nodes called artificial neurons which loosely model the neuromorphic neurons that represent the neural networks.",
+        "topic": "Technology",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:31:24",
+        "user_input": "what is neural network?",
+        "bot_response": " In machine learning a neural network also artificial neural network or neural net abbreviated ANN or NN is a model inspired by the structure and function of biological neural networks in animal brains An ANN consists of connected units or nodes called artificial neurons which loosely model the neuromuscular systems at work within the neural networks The NNN represents an organism with a neural network of neurons, neurons, and neurons.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:31:52",
+        "user_input": "what is SARS?",
+        "bot_response": " Severe acute respiratory syndrome SARS is a viral respiratory disease of zoonotic origin caused by the virus SARSCoV1 the first identified strain of the SARSrelated coronavirus The first known cases occurred in November 2002 and the syndrome caused the 20022004 SARS outbreak In the 2010s Chinese scallops were documented in 17 countries.",
+        "topic": "Health",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:32:42",
+        "user_input": "When is the next election in USA?",
+        "bot_response": " The 2024 United States elections were held on Tuesday November 5 2024 In the presidential election former Republican President Donald Trump seeking a nonconsecutive second term defeated the incumbent Democratic Vice President Kamala Harris Republicans also gained control of the Senate and held narrations of the popular vote.",
+        "topic": "Politics",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:33:09",
+        "user_input": "Do you know Chennai Super Kings?",
+        "bot_response": "Chennai Super Kings Cricket Limited is a public limited company that administers cricket franchises The company was incorporated on 19 December 2014 The name itself was derived from its first and flagship franchise Chennai Super Kings CSK which plays in the Indian Premier League IPL As of 2023 the mauche club currently consists of 11 teams including the A-League National Twenty20 and South Africa Champions League.",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:33:39",
+        "user_input": "Do you RCB lost a match in 49 runs?",
+        "bot_response": " T20 kit Royal Challengers Bangalore RCB officially Royal Challengers Bengaluru is an Indian professional franchise womens cricket team that competes in the Womens Premier League WPL based in Bangalore Karnataka The team is owned by United Spirits who also owns the mens team The team is coached by Laxmai Prakash, former ICC chief of team, Chennai FC who had participated in the Womens Premier League (WPL) at the time of this writing.",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:37:35",
+        "user_input": "what is most famous food in india?",
+        "bot_response": "The history of Indian cuisine consists of cuisine of the Indian subcontinent which is rich and diverse The diverse climate in the region ranging from deep tropical to alpine has also helped considerably broaden the set of ingredients readily available to the many schools of cookery in India In many vernacular languages the Indian language is spoken widely, but still sometimes very much as well as spoken by the people.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:41:29",
+        "user_input": "what are the spices added in ramen?",
+        "bot_response": " Ramen rmn   or  rmen ame  is a Japanese noodle dish It includes Chinesestyle wheat noodles  chkamen served in a broth Common flavors are soy sauce and miso with typical toppings including sliced pork chsh nori dried seaweed menma bamboo shoots and scallions Ramen has its roots in Chinese noodle disobedience (from the Japanese food scene)\n\n\nKorean noodle dish Kanyun (Japanese restaurant and sushi house)\nAsian version on restaurant list\nDedicated to the restaurant for its famous dish\nJapanese noodle soup\nJapana noodles and noodles\nBamboo noodles in red, yellow, and red from the noodles\nTens of thousands of noodles and noodles in a dish\nJapanese ramen\nJapanese rmn \u00a0  \u00a0  \u00a0 \u00a0\nYuki (Japanese restaurant)\nAchi noodle-style dish\nJapanese noodle dishes, including tofu as a meal\nJapanese noodle dishes\nDedicated to the restaurant for its famous dish Daedai (from the Japanese food scene)\nJapana, the name for the special ramen and noodles in the restaurant\nJapanese ramen, as well as Japanese ramen, as well as Japanese ramen, as well as Japanese ramen, as well as Japanese ramen.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:49:46",
+        "user_input": "who is the current president of USA?",
+        "bot_response": "  Donald Trumps tenure as the 45th president of the United States began on January 20 2017 when Trump was inaugurated and ended on January\u00a020 2021 Trump a Republican from New York took office following his electoral college victory over Democratic nominee Hillary Clinton in the 2016 presidential eleventh round of the US presidential election.",
+        "topic": "Politics",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 20:59:23",
+        "user_input": "how many players will be in cricket?",
+        "bot_response": "Cricket is a darts game that uses the \nstandard 20 number dartboard with the triple and double rings Cricket is typically played between 2 3 or 4 players or teams of players although the rules do not discount more players The goal of cricket is to be the first player to open or close all the cricket boxes, but as soon as they are completed, you can start and continue.",
+        "topic": "Sports",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 21:49:14",
+        "user_input": "Hi!!!!",
+        "bot_response": "Sup? How you doin?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 21:49:43",
+        "user_input": "Nothing....what r u doing",
+        "bot_response": "I'm a scientist, what are you doing?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 21:50:01",
+        "user_input": "I am training u",
+        "bot_response": "I am also training u.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-03 21:50:16",
+        "user_input": "U cant train me",
+        "bot_response": "Well that's just sad.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:15:09",
+        "user_input": "Hi!",
+        "bot_response": "Hey. What's up?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:16:51",
+        "user_input": "How are you feeling?",
+        "bot_response": "I'm feeling great, I'm hoping that's good enough.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:17:42",
+        "user_input": "I'm feeling great too!!",
+        "bot_response": "I'm also feeling great!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:18:15",
+        "user_input": "can u tell me a joke",
+        "bot_response": "The Comedian is a 2016 American comedydrama film directed by Taylor Hackford and written by Lewis Friedman Richard LaGravenese Art Linson and Jeff Ross The film stars Robert De Niro Leslie Mann Danny DeVito Edie Falco Veronica Ferres Charles Grodin Cloris Leachman Patti LuPone Greer Barnes and Harvee Leith Thomas Tominson Charles Graysville Carol Doss, Charles L.",
+        "topic": "Entertainment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:18:37",
+        "user_input": "what are you doing?",
+        "bot_response": "he's on a boat",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:18:45",
+        "user_input": "who?'",
+        "bot_response": "I think it's pronounced, I think it was an ad for a movie or something.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:18:58",
+        "user_input": "Oh really?",
+        "bot_response": "Yea. Really.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:19:07",
+        "user_input": "what?",
+        "bot_response": "I don't get it either.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:19:25",
+        "user_input": "even i didn't get it!",
+        "bot_response": "I don't think the whole thing is real.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:19:36",
+        "user_input": "what is that?",
+        "bot_response": "A toy that looks like a dog",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:19:52",
+        "user_input": "oh what is that called?",
+        "bot_response": "It's called a flutter.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:20:08",
+        "user_input": "what is a flutter",
+        "bot_response": "It's a term for a bird that can't fly because it's so short.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:20:21",
+        "user_input": "Ohhhhh",
+        "bot_response": "i have to upvote this.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:20:34",
+        "user_input": "yeah upvote!",
+        "bot_response": "Upvoted! D",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:20:52",
+        "user_input": "what else?",
+        "bot_response": "I mean, a lot of other things, like what?",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:21:05",
+        "user_input": "anything?",
+        "bot_response": "Sorry, but no. Not interested in either.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:21:16",
+        "user_input": "thats fine",
+        "bot_response": "Thank you so much!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:21:33",
+        "user_input": "You are welcome!",
+        "bot_response": "I really love this bot!",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:29:22",
+        "user_input": "Hi!",
+        "bot_response": "Hey! I just got a PM from you.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:29:56",
+        "user_input": "Explain about acid rain",
+        "bot_response": " Acid rain is rain or any other form of precipitation that is unusually acidic meaning that it has elevated levels of hydrogen ions low pH Most water including drinking water has a neutral pH that exists between 65 and 85 but acid rain has a pH level lower than this and ranges from 45 on average The reason for the lower pH is because it is acidic and it is acidic, but it is not.",
+        "topic": "Environment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:30:44",
+        "user_input": "What is Neural Network?",
+        "bot_response": " In machine learning a neural network also artificial neural network or neural net abbreviated ANN or NN is a model inspired by the structure and function of biological neural networks in animal brains An ANN consists of connected units or nodes called artificial neurons which loosely model the neuriform system as a whole.",
+        "topic": "Technology",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:31:37",
+        "user_input": "What is the best spanish cuisine?",
+        "bot_response": " Spanish cuisine Spanish Cocina espaola consists of the traditions and practices of Spanish cooking It features considerable regional diversity with significant differences among the traditions of each of Spains regional cuisines Olive oil of which Spain is the worlds largest producer is extensively influenced by the Mexican dish, Portuguese pepper, and Spanish saut\u00e9.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:32:15",
+        "user_input": "Tell me about Eras tour",
+        "bot_response": " Publications have widely documented and analysed the environmental cultural economic commercial and philanthropic influence achieved by British rock band Coldplay with the Music of the Spheres World Tour 202225 Described as a media phenomenon the concert run marked their return to live entertainmen at the local time, and by the first anniversary of Coldplay and Rolling Stone, this group has provided the definitive analysis on the evolution and cultural influence of British rock bands.",
+        "topic": "Environment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:33:05",
+        "user_input": "what is the best spanish cuisine?",
+        "bot_response": "Spanish cuisine Spanish Cocina espaola consists of the traditions and practices of Spanish cooking It features considerable regional diversity with significant differences among the traditions of each of Spains regional cuisines Olive oil of which Spain is the worlds largest producer is extensively developed In the world of Brazil Espritilla Caricina Caricina Caricina Caricina Caricina (Vic) Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Caricina Car",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:33:29",
+        "user_input": "what is the best spanish cuisine?",
+        "bot_response": " Spanish cuisine Spanish Cocina espaola consists of the traditions and practices of Spanish cooking It features considerable regional diversity with significant differences among the traditions of each of Spains regional cuisines Olive oil of which Spain is the worlds largest producer is extensively involved With only a limited set of cuisine and few cuisines in Spain there are over 8,000 other cuisines under cultivation.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:34:02",
+        "user_input": "Tell me about Eras tour",
+        "bot_response": " Publications have widely documented and analysed the environmental cultural economic commercial and philanthropic influence achieved by British rock band Coldplay with the Music of the Spheres World Tour 202225 Described as a media phenomenon the concert run marked their return to live entertainmen in the West until the end of the decade.",
+        "topic": "Environment",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:34:28",
+        "user_input": "what is the best spanish cuisine?",
+        "bot_response": " Spanish cuisine Spanish Cocina espaola consists of the traditions and practices of Spanish cooking It features considerable regional diversity with significant differences among the traditions of each of Spains regional cuisines Olive oil of which Spain is the worlds largest producer is extensively cultivated and is cultivated throughout the world and is not known to the world outside of the region.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:34:56",
+        "user_input": "Do u know coldplay?",
+        "bot_response": "No, but I know that they are friends.",
+        "topic": "General",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:35:20",
+        "user_input": "what is the best spanish cuisine?",
+        "bot_response": " Spanish cuisine Spanish Cocina espaola consists of the traditions and practices of Spanish cooking It features considerable regional diversity with significant differences among the traditions of each of Spains regional cuisines Olive oil of which Spain is the worlds largest producer is extensively studied (Pimentelo (Nolan), as well as its Mediterranean-style and Mediterranean-style style oils The cuisine originated in the Caribbean with the same origins as the Mediterranean as the Mediterranean Mediterranean.",
+        "topic": "Food",
+        "error": null
+    },
+    {
+        "timestamp": "2024-12-05 23:35:49",
+        "user_input": "Who is Taylor Swift?",
+        "bot_response": "  The American musician Taylor Swift has influenced popular culture with her music artistry performances image politics fashion ideas and actions collectively referred to as the Taylor Swift effect by publications Debuting as a 16yearold independent singersongwriter in 2006 Swift steadily amassed fa\u00e7ade online in order to get an influential music critic to share her art.",
+        "topic": "Entertainment",
+        "error": null
+    }
+]

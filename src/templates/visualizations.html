@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1c1c1c;
+            color: #fff;
+        }
+        .container {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .chart {
+            margin-bottom: 30px;
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+            font-size: 18px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Chatbot Visualizations</h2>
+        <div class="stats">
+            <div>Average Conversations per Session: {{ avg_conversations }}</div>
+            <div>Total Sessions Count: {{ total_sessions }}</div>
+            <div>Average Docs Retrieved per Session: {{ avg_docs_retrieved }}</div>
+        </div>
+        <div class="chart">
+            <h3>Conversations Over Time</h3>
+            <img src="{{ conversations_over_time_img }}" alt="Conversations Over Time">
+        </div>
+        <div class="chart">
+            <h3>Response Type Distribution</h3>
+            <img src="{{ response_type_dist_img }}" alt="Response Type Distribution">
+        </div>
+        <div class="chart">
+            <h3>Errors per Topic</h3>
+            <img src="{{ errors_per_topic_img }}" alt="Errors per Topic">
+        </div>
+    </div>
+</body>
+</html>

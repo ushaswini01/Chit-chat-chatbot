@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f8fb;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        .header {
+            background-color: #FFA07A;
+            padding: 10px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            color: black;
+        }
+
+        .chat-container {
+            flex: 1;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .messages {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .topics {
+            width: 200px;
+            background-color: #FFDAB9;
+            padding: 15px;
+            box-shadow: -2px 0 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .message {
+            display: flex;
+            padding: 10px;
+            border-radius: 15px;
+            max-width: 70%;
+        }
+
+        .bot {
+            background-color: #f1f1f1;
+            align-self: flex-start;
+        }
+
+        .user {
+            background-color: #dbeaff;
+            align-self: flex-end;
+        }
+
+        .footer {
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            border-top: 1px solid #ddd;
+        }
+
+        .footer input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            outline: none;
+        }
+
+        .footer button {
+            margin-left: 10px;
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+
+        .footer button:hover {
+            background-color: #218838;
+        }
+
+        .topics h3 {
+            margin-top: 0;
+        }
+
+        .checkbox {
+            margin-bottom: 5px;
+        }
+
+        .checkbox label {
+            margin-left: 5px;
+        }
+
+        .topics input {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            Chatbot
+        </div>
+        <div class="chat-container">
+            <div class="messages" id="messages"></div>
+            <div class="topics">
+                <h3>Topics</h3>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="All" checked> <label>All</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Health"> <label>Health</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Environment"> <label>Environment</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Education"> <label>Education</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Politics"> <label>Politics</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Technology"> <label>Technology</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Sports"> <label>Sports</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Entertainment"> <label>Entertainment</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Food"> <label>Food</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Travel"> <label>Travel</label>
+                </div>
+                <div class="checkbox">
+                    <input type="checkbox" name="topic" value="Economy"> <label>Economy</label>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <input type="text" id="userInput" placeholder="Enter your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        const messagesDiv = document.getElementById("messages");
+        const userInput = document.getElementById("userInput");
+
+        function addMessage(sender, text) {
+            const message = document.createElement("div");
+            message.classList.add("message", sender);
+            message.textContent = sender === "user" ? `You: ${text}` : `Bot: ${text}`;
+            messagesDiv.appendChild(message);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        function sendMessage() {
+            const message = userInput.value.trim();
+            if (message === "") return;
+
+            addMessage("user", message);
+            userInput.value = "";
+
+            const selectedTopics = Array.from(document.querySelectorAll('[name="topic"]:checked'))
+                .map(cb => cb.value);
+
+            fetch("/get_response", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                    user_input: message,
+                    topics: selectedTopics.length > 0 ? selectedTopics : ["All"],
+                }),
+            })
+                .then(response => response.json())
+                .then(data => {
+                    addMessage("bot", data.response || "I'm sorry, I couldn't process that.");
+                })
+                .catch(error => {
+                    console.error("Error:", error);
+                    addMessage("bot", "An error occurred while processing your request.");
+                });
+        }
+
+        document.getElementById("userInput").addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        });
+    </script>
+</body>
+</html>
